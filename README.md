@@ -1,3 +1,2 @@
-# Belajar-if-else-switch-case
-Hanya tempat penyimpanan buat belajar 
-Versi dart yang dipakai 2.14.2
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
